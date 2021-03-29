@@ -14,6 +14,12 @@ const {
 
 // router.post('/login', createPost);
 
+router.get('/test', (req, res) => {
+	res.json({
+		message: "If you are reading this, I'm already dead."
+	});
+});
+
 router.delete('/logout', logout);
 
 // // Auth Server
