@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon .",
     "nodemon": "nodemon",
-    "start": "node .",
+    "start": "node ."
   },
   "keywords": [],
   "author": "Onth0s",
