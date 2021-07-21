@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon .",
-    "nodemon": "nodemon"
+    "nodemon": "nodemon",
+    "start": "node .",
   },
   "keywords": [],
   "author": "Onth0s",
